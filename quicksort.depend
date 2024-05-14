@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1715694839 source:c:\users\gusar\onedrive\documentos\project_quick\quicksort\particionador.c
+	<stdio.h>
+	"particionador.h"
+
+1715694525 c:\users\gusar\onedrive\documentos\project_quick\quicksort\particionador.h
+
+1715694839 source:c:\users\gusar\onedrive\documentos\project_quick\quicksort\particionamento.c
+	<stdio.h>
+	"particionador.h"
+	"particionamento.h"
+
+1715694525 c:\users\gusar\onedrive\documentos\project_quick\quicksort\particionamento.h
+
+1715694867 source:c:\users\gusar\onedrive\documentos\project_quick\quicksort\quick_func.c
+	<stdio.h>
+	"particionador.h"
+	"particionamento.h"
+
+1715697879 source:c:\users\gusar\onedrive\documentos\project_quick\quicksort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"particionador.h"
+	"particionamento.h"
+	"quick_func.h"
+
+1715694581 c:\users\gusar\onedrive\documentos\project_quick\quicksort\quick_func.h
+
